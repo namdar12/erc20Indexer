@@ -1,0 +1,9 @@
+1 point - User wallet integration -> Done/1
+1 point - Progress status -> Done/2
+1 point - Styling -> Done/5
+1 point - Token balance formatting
+1 point - Error checking -> Done/3
+1 point - Pretty grid display
+1 point - Load optimization
+1 point - ENS support -Done/4
+1 point - Bonus point for creativity
