@@ -170,12 +170,15 @@ function App() {
                       }
                     />
 
-                    <Card>
+                    <Card
+                    border-radius = {"40px"}
+                    background = {"#e0e0e0"}
+                    box-shadow = {"-10px -10px 20px #7d7d7d,10px 10px 20px #ffffff"}>
                       <Heading size="md" textAlign="center">
                         Symbol:${tokenDataObjects[i].symbol}
                       </Heading>
-                    </Card>
-                    <Card>
+                    {/* </Card>
+                    <Card> */}
                       <Heading size="md" textAlign="center">
                         Balance:
                         {Utils.formatUnits(
